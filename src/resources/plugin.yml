@@ -1,0 +1,7 @@
+name: ZombieEscape
+author: trashcanolives
+website: trashcanolives.club
+main: club.trashcanolives.ZombieEscape.Main
+version: 0.0
+commands:
+  help:

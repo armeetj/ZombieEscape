@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.weicoder.extend:HikariCP-extend:3.3.8" type="repository">
+    <properties maven-id="com.weicoder.extend:HikariCP-extend:3.3.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weicoder/extend/HikariCP-extend/3.3.8/HikariCP-extend-3.3.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/weicoder/extend/log4j-extend/3.3.8/log4j-extend-3.3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
